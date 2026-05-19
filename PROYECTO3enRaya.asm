@@ -1,7 +1,5 @@
 ;
 ; Hecho para procesadores 8086 para compilarlo en emu8086
-; Programadores: Fernando Martinez, Carlos Franco
-; 
 	format MZ					; multi segmento
 	use16 						; 16bits bin
 	entry			main:start	; puntos de entrada para el exe

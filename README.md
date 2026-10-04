@@ -16,3 +16,9 @@ Los temas vistos en esta materia fueron
 - interrupciones en el simulador MSX88
 
   (falto mucha mas practica)
+
+### proyectos ejecutado(interfaz 1) realizados el 2024
+![imagen de proyecto](readMeIMG/img2.jpeg "imagen proyecto")
+
+### proyecto ejecutado (interfaz 2 resultado)
+![imagen de proyecto](readMeIMG/img1.jpeg "imagen proyecto")
